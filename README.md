@@ -68,3 +68,42 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+<!-- Colores: 
+
+    --background: #ededed;   background del resto de la pagina
+    --black: #000000;   relleno del resto de la pagina
+    --white: #ffffff;   background de la publicacion
+
+    --green: #00a650;   relleno de las cuotas
+    --blue1: #1e6dff;
+    --blue2: #2968c8;   relleno de la letra de las secciones
+    --blue3: #3483fa;   background del boton comprar
+    --yellow: #fff159;  background del navbar
+
+    --reputation1: #ffe7e6;
+    --reputation2: #fff4e7;
+    --reputation3: #fffde5;
+    --reputation4: #f3fee0;
+    --reputation5: #00a650;
+
+
+
+Texto
+    --text1: rgba(0, 0, 0, .8);
+    --text2: rgba(0, 0, 0, .45);
+    --text3: #666;
+
+
+Border:
+
+    --border: #ddd;
+
+    --panel: 0 1px 3px 0 rgba (0, 0, 0, .3);
+
+
+Font Family:
+
+    --family:  "Proxima Nova", -apple-system, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif -->
