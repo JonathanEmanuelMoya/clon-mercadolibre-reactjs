@@ -21,11 +21,11 @@ export default createGlobalStyle`
     --blue3: #3483fa;
     --yellow: #fff159; 
 
-    --reputation1: #ffe7e6;
-    --reputation2: #fff4e7;
-    --reputation3: #fffde5;
-    --reputation4: #f3fee0;
-    --reputation5: #00a650;
+    --reputation1: #fff0f0;
+    --reputation2: #fff5e8;
+    --reputation3: #fffcda;
+    --reputation4: #f1fdd7;
+    --reputation5: #39b54a;
 
     --border: #ddd;
 

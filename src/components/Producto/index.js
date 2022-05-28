@@ -1,5 +1,7 @@
 import React from "react";
 import { Container, Panel, Column, Galeria, Description, Section } from "./styles"
+import { ProductoEnVenta } from "../ProductoEnVenta";
+import { InfoVendedor } from "../InfoVendedor";
 
 export const Producto = () => {
     return (
@@ -12,8 +14,8 @@ export const Producto = () => {
                     <Info />
                 </Column>
                 <Column>
-                    {/* <ProductoEnVenta />
-                    <InfoVendedor /> */}
+                    <ProductoEnVenta />
+                    <InfoVendedor />
                     <Garantia />
                 </Column>
             </Panel>
@@ -60,7 +62,7 @@ const Info = () => {
 }
 
 const Garantia = () => {
-    return(
+    return (
         <Section>
             <h5>Garantía</h5>
             <div>

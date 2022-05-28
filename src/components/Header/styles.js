@@ -29,8 +29,11 @@ max-height: 36px;
 margin: 0 auto;
 >a{
     font-size: 14px;
+    line-height: 22px;
+    text-alling: left;
     text-decoration: none;
-    color: var(--text2);
+    color: #333333;
+    opacity: 60%;
     padding: 3px 0;
 
     & + a{
